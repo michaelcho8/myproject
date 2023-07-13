@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-onadofvnafvn
-advnad'nav
- a
- dsof
- aopduiinbfiuvlnadfv
-
-adf'oiefo;haeeilubefi.uiu26ch9dvsgp9p;iugbo~(igu*Gp9gp97gug;uergipumv
- aodsmmads
- fmpd
-=======
-test file for Git
->>>>>>> parent of 9dd7355 (messed up text file)
+this is a test
